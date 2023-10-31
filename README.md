@@ -13,3 +13,5 @@ Suma de Ganancias: $151,946.50 Las ganancias representan la diferencia entre los
 Para obtener una imagen más completa de la situación financiera de la empresa en Canadá, es esencial analizar estos datos en profundidad. Esto puede incluir desglosar las ventas y ganancias por período, evaluar la evolución a lo largo del tiempo, identificar tendencias y patrones, y comparar el desempeño actual con objetivos y proyecciones anteriores.
 
 Un Dashboard de Finanzas como este proporciona una visión rápida y concisa de los indicadores financieros clave, lo que permite a los responsables de la toma de decisiones tomar medidas informadas y estratégicas para el futuro de la empresa en el mercado canadiense.
+
+![image](https://github.com/andrethydavid/power-bi-canada/assets/72534486/d1ae7416-281b-4e0d-88f7-2a6c81df43ca)
